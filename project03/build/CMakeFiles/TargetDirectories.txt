@@ -1,0 +1,3 @@
+/home/jiangfeng/workplace/project03/build/CMakeFiles/my_cmake_exe.dir
+/home/jiangfeng/workplace/project03/build/CMakeFiles/edit_cache.dir
+/home/jiangfeng/workplace/project03/build/CMakeFiles/rebuild_cache.dir

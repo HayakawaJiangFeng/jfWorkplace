@@ -1,0 +1,3 @@
+/home/jiangfeng/workplace/project02/build/CMakeFiles/swap_cmake.dir
+/home/jiangfeng/workplace/project02/build/CMakeFiles/edit_cache.dir
+/home/jiangfeng/workplace/project02/build/CMakeFiles/rebuild_cache.dir
